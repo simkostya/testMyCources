@@ -81,6 +81,7 @@ class ViewController: UIViewController {
             startStopLabel.text = "Забег остановлен"
         }
     }
+    //text comment
 }
 
 
