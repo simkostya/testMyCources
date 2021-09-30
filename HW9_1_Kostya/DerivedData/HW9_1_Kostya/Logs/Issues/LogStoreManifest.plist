@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>443A5D98-B65E-41EE-9A6C-DBC36FDCD034</key>
+		<key>83158968-5C43-4D06-83B9-827B9FDB967E</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>443A5D98-B65E-41EE-9A6C-DBC36FDCD034.xcactivitylog</string>
+			<string>83158968-5C43-4D06-83B9-827B9FDB967E.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -26,13 +26,13 @@
 			<key>signature</key>
 			<string>HW9_1_Kostya-ddkomkjdpochjvhchdgpwvcnrnrb</string>
 			<key>timeStartedRecording</key>
-			<real>654720836.11624897</real>
+			<real>654720931.01231205</real>
 			<key>timeStoppedRecording</key>
-			<real>654720836.17278194</real>
+			<real>654720931.07014704</real>
 			<key>title</key>
 			<string>Build target HW9_1_Kostya</string>
 			<key>uniqueIdentifier</key>
-			<string>443A5D98-B65E-41EE-9A6C-DBC36FDCD034</string>
+			<string>83158968-5C43-4D06-83B9-827B9FDB967E</string>
 		</dict>
 		<key>E1882BE1-0D26-429F-AB9A-100F2BD77F16</key>
 		<dict>
