@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>6589E6F2-F20B-4CAE-96BC-96C4E282ACB5</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6589E6F2-F20B-4CAE-96BC-96C4E282ACB5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HW9_1_Kostya project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HW9_1_Kostya</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run HW9_1_Kostya</string>
+			<key>timeStartedRecording</key>
+			<real>654711395.26948702</real>
+			<key>timeStoppedRecording</key>
+			<real>654712984.91444802</real>
+			<key>title</key>
+			<string>Run HW9_1_Kostya</string>
+			<key>uniqueIdentifier</key>
+			<string>6589E6F2-F20B-4CAE-96BC-96C4E282ACB5</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

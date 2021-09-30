@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="e55-2h-uxI">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="5fH-aZ-6NI">
+            <objects>
+                <viewController id="e55-2h-uxI" customClass="ViewController" customModule="HW9_1_Kostya" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Axd-Yl-JN8">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="HVT-Sx-QRg">
+                                <rect key="frame" x="87" y="226" width="240" height="379"/>
+                                <subviews>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="field" translatesAutoresizingMaskIntoConstraints="NO" id="h0h-6A-AHF">
+                                        <rect key="frame" x="0.0" y="0.0" width="240" height="379"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                    </imageView>
+                                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Jet-G4-Uvp">
+                                        <rect key="frame" x="0.0" y="0.0" width="50" height="50"/>
+                                        <subviews>
+                                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="horse" translatesAutoresizingMaskIntoConstraints="NO" id="qtf-na-UmM">
+                                                <rect key="frame" x="0.0" y="0.0" width="50" height="50"/>
+                                                <constraints>
+                                                    <constraint firstAttribute="width" constant="50" id="cEH-Rz-MFR"/>
+                                                    <constraint firstAttribute="height" constant="50" id="znk-LI-bDk"/>
+                                                </constraints>
+                                            </imageView>
+                                        </subviews>
+                                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <constraints>
+                                            <constraint firstAttribute="bottom" secondItem="qtf-na-UmM" secondAttribute="bottom" id="3Wb-Vx-JSZ"/>
+                                            <constraint firstItem="qtf-na-UmM" firstAttribute="top" secondItem="Jet-G4-Uvp" secondAttribute="top" id="IGf-fC-RUm"/>
+                                            <constraint firstAttribute="trailing" secondItem="qtf-na-UmM" secondAttribute="trailing" id="dzW-af-JVr"/>
+                                            <constraint firstItem="qtf-na-UmM" firstAttribute="leading" secondItem="Jet-G4-Uvp" secondAttribute="leading" id="hPk-7w-dBt"/>
+                                        </constraints>
+                                    </view>
+                                </subviews>
+                                <color key="backgroundColor" systemColor="systemOrangeColor"/>
+                                <constraints>
+                                    <constraint firstItem="Jet-G4-Uvp" firstAttribute="top" secondItem="HVT-Sx-QRg" secondAttribute="top" id="AbU-jv-HJb"/>
+                                    <constraint firstItem="Jet-G4-Uvp" firstAttribute="leading" secondItem="HVT-Sx-QRg" secondAttribute="leading" id="Wm4-uG-upe"/>
+                                </constraints>
+                            </view>
+                            <switch opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" contentHorizontalAlignment="center" contentVerticalAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="Pfa-ZZ-rFh">
+                                <rect key="frame" x="182.5" y="677" width="51" height="31"/>
+                                <connections>
+                                    <action selector="actionStartStop:" destination="e55-2h-uxI" eventType="valueChanged" id="CSd-sA-kC8"/>
+                                </connections>
+                            </switch>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Начать забег" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UnM-VN-Zng">
+                                <rect key="frame" x="87" y="640" width="240" height="21"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="2oY-eD-Rll"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="HVT-Sx-QRg" firstAttribute="centerX" secondItem="Pfa-ZZ-rFh" secondAttribute="centerX" id="8lZ-d7-Bov"/>
+                            <constraint firstAttribute="bottom" secondItem="HVT-Sx-QRg" secondAttribute="bottom" constant="291" id="DG6-QA-lUt"/>
+                            <constraint firstItem="HVT-Sx-QRg" firstAttribute="centerX" secondItem="Axd-Yl-JN8" secondAttribute="centerX" id="Nei-Qz-Beq"/>
+                            <constraint firstItem="HVT-Sx-QRg" firstAttribute="top" secondItem="2oY-eD-Rll" secondAttribute="top" constant="182" id="WXA-5Z-4vD"/>
+                            <constraint firstItem="Pfa-ZZ-rFh" firstAttribute="top" secondItem="HVT-Sx-QRg" secondAttribute="bottom" constant="72" id="fwF-ac-NOS"/>
+                            <constraint firstItem="HVT-Sx-QRg" firstAttribute="leading" secondItem="2oY-eD-Rll" secondAttribute="leading" constant="87" id="jJU-y9-V2h"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="fieldImage" destination="h0h-6A-AHF" id="0S8-ht-UWV"/>
+                        <outlet property="hippodromeView" destination="HVT-Sx-QRg" id="HTd-GJ-4Dn"/>
+                        <outlet property="horseImage" destination="qtf-na-UmM" id="iME-ah-6Y9"/>
+                        <outlet property="movingСircleView" destination="Jet-G4-Uvp" id="h51-Jl-PDT"/>
+                        <outlet property="startStopLabel" destination="UnM-VN-Zng" id="OL1-z1-VLU"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="KaY-S3-OA9" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1367" y="92"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="field" width="341" height="511.5"/>
+        <image name="horse" width="540" height="540"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="systemOrangeColor">
+            <color red="1" green="0.58431372549019611" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>
