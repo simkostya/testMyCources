@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.3.2 (swiftlang-1200.0.45 clang-1200.0.32.28)"
+options: "7fd482bef2f431375aeecea37bbdeb54"
+build_time: [1633017404, 42013000]
+inputs:
+  "/Users/admin/Downloads/HW9_new_Kostya/HW9_new_Kostya/ViewController.swift": [1633014913, 0]
+  "/Users/admin/Downloads/HW9_new_Kostya/HW9_new_Kostya/AppDelegate.swift": [1632857844, 0]
+  "/Users/admin/Downloads/HW9_new_Kostya/HW9_new_Kostya/SceneDelegate.swift": [1632857844, 0]

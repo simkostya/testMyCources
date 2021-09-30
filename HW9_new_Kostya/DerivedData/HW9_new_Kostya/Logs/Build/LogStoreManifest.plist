@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>59216A48-67C5-4CB2-A15C-5395070D86F9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>59216A48-67C5-4CB2-A15C-5395070D86F9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HW9_new_Kostya project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HW9_new_Kostya</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build HW9_new_Kostya</string>
+			<key>timeStartedRecording</key>
+			<real>654710201.96422696</real>
+			<key>timeStoppedRecording</key>
+			<real>654710215.06932795</real>
+			<key>title</key>
+			<string>Build HW9_new_Kostya</string>
+			<key>uniqueIdentifier</key>
+			<string>59216A48-67C5-4CB2-A15C-5395070D86F9</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
