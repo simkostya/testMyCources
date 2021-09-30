@@ -6,6 +6,40 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>1B1817AF-2804-4F9E-9A5A-92866E1A9FE5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1B1817AF-2804-4F9E-9A5A-92866E1A9FE5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HW9_1_Kostya project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HW9_1_Kostya</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build HW9_1_Kostya</string>
+			<key>timeStartedRecording</key>
+			<real>654720817.73320305</real>
+			<key>timeStoppedRecording</key>
+			<real>654720819.13798106</real>
+			<key>title</key>
+			<string>Build HW9_1_Kostya</string>
+			<key>uniqueIdentifier</key>
+			<string>1B1817AF-2804-4F9E-9A5A-92866E1A9FE5</string>
+		</dict>
 		<key>6680E4E3-5E6B-43AF-BE50-4BF515E824E2</key>
 		<dict>
 			<key>className</key>
@@ -39,6 +73,74 @@
 			<string>Build HW9_1_Kostya</string>
 			<key>uniqueIdentifier</key>
 			<string>6680E4E3-5E6B-43AF-BE50-4BF515E824E2</string>
+		</dict>
+		<key>77016BC1-3F70-4D78-AB0A-AC6FCB9C9FF0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>77016BC1-3F70-4D78-AB0A-AC6FCB9C9FF0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HW9_1_Kostya project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HW9_1_Kostya</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean HW9_1_Kostya</string>
+			<key>timeStartedRecording</key>
+			<real>654720833.95498705</real>
+			<key>timeStoppedRecording</key>
+			<real>654720834.01380897</real>
+			<key>title</key>
+			<string>Clean HW9_1_Kostya</string>
+			<key>uniqueIdentifier</key>
+			<string>77016BC1-3F70-4D78-AB0A-AC6FCB9C9FF0</string>
+		</dict>
+		<key>F872FFD3-742E-4F24-9904-13A8C0C28EFD</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F872FFD3-742E-4F24-9904-13A8C0C28EFD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>HW9_1_Kostya project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>HW9_1_Kostya</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build HW9_1_Kostya</string>
+			<key>timeStartedRecording</key>
+			<real>654720835.99189305</real>
+			<key>timeStoppedRecording</key>
+			<real>654720836.183002</real>
+			<key>title</key>
+			<string>Build HW9_1_Kostya</string>
+			<key>uniqueIdentifier</key>
+			<string>F872FFD3-742E-4F24-9904-13A8C0C28EFD</string>
 		</dict>
 	</dict>
 </dict>

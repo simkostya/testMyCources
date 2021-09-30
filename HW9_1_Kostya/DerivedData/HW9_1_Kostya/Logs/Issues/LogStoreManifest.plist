@@ -6,6 +6,34 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>443A5D98-B65E-41EE-9A6C-DBC36FDCD034</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>443A5D98-B65E-41EE-9A6C-DBC36FDCD034.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>HW9_1_Kostya-ddkomkjdpochjvhchdgpwvcnrnrb</string>
+			<key>timeStartedRecording</key>
+			<real>654720836.11624897</real>
+			<key>timeStoppedRecording</key>
+			<real>654720836.17278194</real>
+			<key>title</key>
+			<string>Build target HW9_1_Kostya</string>
+			<key>uniqueIdentifier</key>
+			<string>443A5D98-B65E-41EE-9A6C-DBC36FDCD034</string>
+		</dict>
 		<key>E1882BE1-0D26-429F-AB9A-100F2BD77F16</key>
 		<dict>
 			<key>className</key>
